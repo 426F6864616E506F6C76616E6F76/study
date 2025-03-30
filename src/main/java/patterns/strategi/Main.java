@@ -24,5 +24,6 @@ public class Main {
         modelDuck.setQuackBehavior(new MuteQuack());
         modelDuck.performFly();
         modelDuck.performQuack();
+        System.out.println("---------------------------------------------");
     }
 }
