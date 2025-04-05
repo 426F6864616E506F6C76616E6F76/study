@@ -1,8 +1,5 @@
 package patterns.observer.custom;
 
-import patterns.observer.custom.Observer;
-import patterns.observer.custom.Subject;
-
 import java.util.ArrayList;
 
 public class WeatherData implements Subject {

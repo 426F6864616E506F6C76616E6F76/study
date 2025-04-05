@@ -1,9 +1,6 @@
 package patterns.observer.custom;
 
-import patterns.observer.custom.CurrentConditionsDisplay;
-import patterns.observer.custom.WeatherData;
-
-public class WeatherStation {
+public class Main {
 
     public static void main(String[] args) {
 
