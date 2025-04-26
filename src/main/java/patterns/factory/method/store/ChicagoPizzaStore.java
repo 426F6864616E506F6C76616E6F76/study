@@ -1,10 +1,10 @@
-package patterns.factory.complex.store;
+package patterns.factory.method.store;
 
-import patterns.factory.complex.chicago.ChicagoCheesePizza;
-import patterns.factory.complex.chicago.ChicagoClamPizza;
-import patterns.factory.complex.chicago.ChicagoPepperoniPizza;
-import patterns.factory.complex.chicago.ChicagoVeggiePizza;
-import patterns.factory.complex.Pizza;
+import patterns.factory.method.pizza.chicago.ChicagoCheesePizza;
+import patterns.factory.method.pizza.chicago.ChicagoClamPizza;
+import patterns.factory.method.pizza.chicago.ChicagoPepperoniPizza;
+import patterns.factory.method.pizza.chicago.ChicagoVeggiePizza;
+import patterns.factory.method.pizza.Pizza;
 
 public class ChicagoPizzaStore extends PizzaStore {
 

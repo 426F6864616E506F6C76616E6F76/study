@@ -1,10 +1,10 @@
-package patterns.factory.complex.store;
+package patterns.factory.method.store;
 
-import patterns.factory.complex.ny.NYVeggiePizza;
-import patterns.factory.complex.ny.NYcheesePizza;
-import patterns.factory.complex.ny.NYclamPizza;
-import patterns.factory.complex.ny.NYpepperoniPizza;
-import patterns.factory.complex.Pizza;
+import patterns.factory.method.pizza.ny.NYVeggiePizza;
+import patterns.factory.method.pizza.ny.NYcheesePizza;
+import patterns.factory.method.pizza.ny.NYclamPizza;
+import patterns.factory.method.pizza.ny.NYpepperoniPizza;
+import patterns.factory.method.pizza.Pizza;
 
 public class NYPizzaStore extends PizzaStore {
 

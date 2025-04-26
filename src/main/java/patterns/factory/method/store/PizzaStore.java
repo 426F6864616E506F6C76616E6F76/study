@@ -1,6 +1,6 @@
-package patterns.factory.complex.store;
+package patterns.factory.method.store;
 
-import patterns.factory.complex.Pizza;
+import patterns.factory.method.pizza.Pizza;
 
 
 public abstract class PizzaStore {
